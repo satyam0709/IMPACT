@@ -14,3 +14,7 @@ Installation
 $ git clone https://github.com/satyam0709/IMPACT.git
 $ cd IMPACT
 $ npm install
+
+
+# Demo Video
+![Demo Expense Tracker application](./demo/DEMO FOLDER)
