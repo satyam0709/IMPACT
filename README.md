@@ -17,4 +17,4 @@ $ npm install
 
 
 # Demo Video
-(./demo/DEMO FOLDER.gif)
+(./demo/demo.gif)
