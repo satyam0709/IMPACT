@@ -17,4 +17,4 @@ $ npm install
 
 
 # Demo Video
-![Demo Expense Tracker application](./demo/DEMO FOLDER)
+(./demo/DEMO FOLDER.gif)
